@@ -47,4 +47,6 @@ Este projeto é compostos pelos seguintes arquivos:
       OBS: Os parâmetros ori,cell,block e method devem estar de acordo com os utilizados para o treinamendo do modelo carregado  
       'tamanhos' -> Tamanhos dos recortes que serão utilizados para encontrar regiões de folha na image,. Por padrão = [32,64,128,384]  
 
-Além dos arquivo de código, também estão disponíveis todos os csv gerados e modelos criados a partir deles
+Além dos arquivo de código, também estão disponíveis todos os modelos treinados no arquivo .zip
+
+Devido ao tamanho dos arquivos .csv, eles estarão disponíveis através do link https://drive.google.com/drive/folders/1b890HxVXUXS_WZ1zRq3aHx8vwwcVqQyw?usp=sharing 
